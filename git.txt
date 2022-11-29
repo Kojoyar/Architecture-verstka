@@ -1,0 +1,3 @@
+git add . - упоковать
+git commit -m 'Some messege' - маркировка
+$ git push origin master отправка данных
